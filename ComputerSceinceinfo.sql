@@ -1,0 +1,17 @@
+Insert into computerscience (Id, CourseNumber,Title, CreditHours, Teacher_FName,Teacher_LName, SeatsAvailable) Values 
+('1', 'CS101', 'Intro to Computer Programming', '3', 'Art', 'Kazmierczak', '40'),
+('2','CS155', 'Computer Science 1', '4', 'Art', 'Kazmierczak', '140'),
+('3','CS245', 'Discrete Structures', '3', 'Chuck', 'McAllister', '80'), 
+('4','CS265', 'Computer Science 2', '4', 'Waleed', 'Amer', '80'), 
+('5','CS288', 'Computer Systems & Assembly Language','3', 'Yumin', 'Zhang', '47'),
+('6','CS300', 'Computer Science 3', '3', 'Indranil', 'Roy', '44'),
+('7','CS351', 'C & Posix', '4', 'David', 'Miller', '30'),
+('8','CS380', 'Computer Operating Systems', '3', 'Bob', 'Lowe', '40'),
+('9','CS433', 'Data Analytics','3', 'Ziping', 'Liu', '52'),
+('10','CS440', 'Database', '3', 'Guimaraes', 'Mario', '45'),
+('11','CS445', 'Software Engineering 1', '3', 'Paul', 'Setzer', '40'), 
+('12','CS495', 'Senior Seminar', '1', 'Waleed', 'Amer', '55'),
+('13','CS499', ' Capstone Experience', '3', 'Bob', 'Lowe','40'),
+('14','CS533', 'Mobile Computing', '3', 'Xiaoming', 'Liu', '170'),
+('15','CS580', 'Advanced Robotics', '3', ' Zhouzhou', 'Li', '40'),
+('16','CS591', 'Advanced AI', '3', 'Juefei', 'Yuan', '140')
